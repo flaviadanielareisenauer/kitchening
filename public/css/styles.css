@@ -75,7 +75,7 @@ body {
 }
 .vip-products .product .photo-container .special {
     position: absolute;
-    top: 0%;
+    top: 0px;
     right: 20px;
 }
 .vip-products .product .photo-container .zoom {
