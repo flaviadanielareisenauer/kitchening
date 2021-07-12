@@ -1,0 +1,23 @@
+{
+  "name": "kitchening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviadanielareisenauer/kitchening.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviadanielareisenauer/kitchening/issues"
+  },
+  "homepage": "https://github.com/flaviadanielareisenauer/kitchening#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
